@@ -1,9 +1,8 @@
-<!DOCTYPEhtml>
-<html>
 <head>
+	<title>Einstein's Life</title>
 <style>
-	.purple-text {
-		color: purple;
+	body {
+		background-color: powderblue;
 	}
 	header {
 		font-size: 40px;
@@ -35,12 +34,16 @@
 	.yellow-background {
 		background-color: yellow;
 	}
+	.purple-text {
+		color: purple;
+	}
 	#rat-food-form {
 		background-color: red;
 	}
 
 </style>
 </head>
+<body>
 <div class="yellow-background">
 <header>
 	<!--put in title "life of Einstein and contact info link-->
@@ -51,7 +54,6 @@
 </div>
 <div>
 <main>
-<body>
 <p>I made this website to tell the world about my awesome life as a domestic rat.</p>
 <h2>As you can see, I am a rat. Handsome right? My mom said I am the cutest little guy in the world.</h2>
  <img src=<!--insert image link-->
@@ -120,5 +122,4 @@
 
 
 
-</html>
 
