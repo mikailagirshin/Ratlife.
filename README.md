@@ -1,10 +1,9 @@
-# mikailagirshin
 <!DOCTYPEhtml>
 <html>
 <head>
-<metacharset="utf-8"
 <title>Einstien's Life</title>
-link rel="stylesheet" type="text/css"href="style.css"
+<link rel="stylesheet" type="text/css" href="styles/style.css"/>
+<metacharset="utf-8"
 <style>
 	.purple-text {
 		color: purple;
