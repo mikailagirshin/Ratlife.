@@ -75,7 +75,6 @@
 </nav>
 </div>
 <div>
-<aside>
 <form id="rat-food-form" action="/submit-rat-food-form">
 	<input type="text" required placeholder="this is placeholder text">
 	<label for="unsalted peanuts"><input id="unsalted peanuts" value="unsalted peanuts" type="checkox" name="food">Unsalted Peanuts</label>
@@ -87,7 +86,6 @@
 	<label for="chocolate"><input id="chocolate" value="chocolate" type="checkox" name="food">Chocolate</label>
 	<button type="submit">Submit</button>
 </form>
-</aside>
 </div>
 
 
