@@ -1,4 +1,4 @@
-<head>
+<head style="font-family:monospace;>
 	<title>Einstein's Life</title>
 <style>
 	body {
@@ -10,10 +10,12 @@
 	h1 {
 		font-size: 20px;
 		font-family: monospace;
+		text-align: center;
+	     	background-color: white;
 	}
 	p {
-		font-size: 12px;
-		font-family: Helvetica, sans-serif;
+		font-size: 16px;
+		font-family: monospace;
 	}
 	.larger-image {
 		width: 400px;
@@ -44,7 +46,7 @@
 </style>
 </head>
 <body>
-<div class="yellow-background">
+<div>
 <header>
 	<!--put in title "life of Einstein and contact info link-->
 </header>
@@ -53,7 +55,7 @@
 <h1 style="color:blue;">Hello! I am Einstein!</h1>
 </div>
 <div>
-<main>
+
 <p>I made this website to tell the world about my awesome life as a domestic rat.</p>
 <h2>As you can see, I am a rat. Handsome right? My mom said I am the cutest little guy in the world.</h2>
  <img src=<!--insert image link-->
@@ -62,7 +64,7 @@
  <img src= <!--insert image link-->
  <p class="purple-text"><!--make this a caption-->I pee on my dad. We also cuddle. He feeds me sweet potatoes, my favorite.</p>
 
-</body>
+
 <div>
 <nav>
 	<ul>
@@ -87,7 +89,7 @@
 	<button type="submit">Submit</button>
 </form>
 </div>
-
+</body>
 
 
 
