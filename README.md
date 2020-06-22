@@ -1,94 +1,101 @@
-<head>
-	<title style="color:mediumslateblue;text-align:left;">Einstein's Life</title>
-<style>
-	body {
-		background-color: gold;
-		text-align: center;
-	}
-	header {
-		font-size: 40px;
-	}
-	h1 {
-		font-color: white;
-		font-size: 20px;
-		font-family: monospace;
-		text-align: center;
-	     	background-color: cornflowerblue;
-	}
-	p {
-		font-size: 16px;
-		font-family: monospace;
-	}
-	<!--insert large image selector-->
-	<!insert small image selector-->
-	.purple-text {
-		color: purple;
-	}
-	#rat-food-form {
-		background-color: red;
-	}
+<DOCTYPE!html>
+<html>
+	<head>
+		<title>BeingEinstein</title>
+	</head>
+	<style>
+		body {
+			background-color: gold;
+			font-family: monospace;
 
-</style>
-</head>
-<body>
-<div>
-<header>
-	<!--put in title "life of Einstein and contact info link-->
-</header>
-</div>
-<div>
-<h1>Hello! I am Einstein!</h1>
-</div>
-<div>
-
-<p>I made this website to tell the world about my awesome life as a domestic rat.</p>
-<h2>As you can see, I am a rat. Handsome right? My mom said I am the cutest little guy in the world.</h2>
- <img src=<!--insert image link-->
- <--add caption to picture lorem ipsum-->
- <h3>These are my parents. They love me a lot!</h3>
- <img src= <!--insert image link-->
- <p class="purple-text"><!--make this a caption-->I pee on my dad. We also cuddle. He feeds me sweet potatoes, my favorite.</p>
+		}
+		h1 {
+			text-align: center;
 
 
-<div>
-<nav>
-	<ul>
-		<li>My Life</li>
-		<li>Eat like me</li>
-		<li>Decorating Tips</li>
-		<li>Rated R for Rat</li>
-		<li>Tips to have fun!</li>
-	</ul>
-</nav>
-</div>
-<div>
-<form id="rat-food-form" action="/submit-rat-food-form">
-	<input type="text" required placeholder="this is placeholder text">
-	<label for="unsalted peanuts"><input id="unsalted peanuts" value="unsalted peanuts" type="checkox" name="food">Unsalted Peanuts</label>
-	<label for="dehydrated corn"><input id="dehydrated corn" value="dehydrated corn" type="checkox" name="food">Dehydrated Corn</label>
-	<label for="carrot tops"><input id="carrot tops" value="carrot tops" type="checkox" name="food">Carrot Tops</label>
-	<label for="kitchen floor crumbs"><input id="kitchen floor crumbs" value="kitchen floor crumbs" type="checkox" name="food">Kitchen Floor Crumbs</label>
-	<label for="Lettuce"><input id="lettuce" value="lettuce" type="checkox" name="food">Lettuce</label>
-	<label for="garbage"><input id="garbage" value="garbage" type="checkox" name="food">Garbage</label>
-	<label for="chocolate"><input id="chocolate" value="chocolate" type="checkox" name="food">Chocolate</label>
-	<button type="submit">Submit</button>
-</form>
-</div>
+		}
+		h2 {
+			text-align: center;
+
+		}
+		h3 {
+			text-align: center;
+
+
+		}
+		h4 {
+			text-align: center;
+
+		}
+		h5 {
+
+		}
+		h6 {
+
+		}
+		p {
+
+		}
+		#footer {
+			text-align: right:
+
+
+		}
+
+
+
+
+	</style>
+	</head>
+	<body>
+		<h1>Rat Life</h1>
+	<div>
+		<h2>Hello! I am Einstein!</h2>
+		<p>I made this site because the world deserves to know who I am.</p>
+	</div>
+	<div>
+		<!--insert image-->
+		<h3>This is Me.</h3>
+		<p>As you can see, I am quite handsome.<br>
+			My mom said that I am the cutest guy<br>
+			In the <bold>WHOLE WORLD</bold></p>
+	</div>
+	<div>
+		<h4>These are my parents. They feed me. I like them.</h4>
+		<!--insert image of Greg and I-->
+	</div>
+	<div>
+		<h5>These are some of my favorite foods</h5>
+			<ul>
+				<li>Carrot Tops</li>
+				<li style="text-align:center;">Your so called "Garbage"</li>
+				<li>Sweet Potatoes</li>
+				<li>Floor Crumbs</li>
+				<li>Peanuts</li>
+			</ul>
+	</div>
+	<div>
+		<h6>Here are some reasons why I am special</h6>
+			<ol>
+				<li>I pee on my dad. He still loves me afterwards.</li>
+				<li>I love to cuddle</li>
+				<li>I am going to live forever, suckers.</li>
+				<li>The smell of rain makes me happy</li>
+				<li>I just am. Look at me.</li>
+			</ol>
+	</div>
+	<div>
+		<footer>
+			<p>Contact Information</p>
+			<ul>
+				<li>Email: pussyruler2019@ratmail.com</li>
+				<li>Instagram: @kingofpussies</li>
+				<li>Phone: 1-800-555-RATS</li>
+			</ul>
+		</footer>
+	</div>
 </body>
-
-
-
-
-
-
-
-
-
-<footer>
-</footer>
-</main>
-
-
+</html>
 
 
 
