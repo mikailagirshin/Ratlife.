@@ -1,9 +1,6 @@
 <!DOCTYPEhtml>
 <html>
 <head>
-<title>Einstien's Life</title>
-<link rel="stylesheet" type="text/css" href="styles/style.css"/>
-<metacharset="utf-8"
 <style>
 	.purple-text {
 		color: purple;
@@ -42,7 +39,7 @@
 		background-color: red;
 	}
 
-	</style>
+</style>
 </head>
 <div class="yellow-background">
 <header>
