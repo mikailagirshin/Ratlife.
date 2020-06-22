@@ -1,8 +1,8 @@
 <head>
-	<title>Einstein's Life</title>
+	<title style="color:mediumslateblue;text-align:left;">Einstein's Life</title>
 <style>
 	body {
-		background-color: ;
+		background-color: gold;
 		text-align: center;
 	}
 	header {
@@ -21,9 +21,6 @@
 	}
 	<!--insert large image selector-->
 	<!insert small image selector-->
-	.yellow-background {
-		background-color: yellow;
-	}
 	.purple-text {
 		color: purple;
 	}
