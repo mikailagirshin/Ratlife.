@@ -1,38 +1,26 @@
-<head style="font-family:monospace;>
+<head>
 	<title>Einstein's Life</title>
 <style>
 	body {
-		background-color: powderblue;
+		background-color: ;
+		text-align: center;
 	}
 	header {
 		font-size: 40px;
 	}
 	h1 {
+		font-color: white;
 		font-size: 20px;
 		font-family: monospace;
 		text-align: center;
-	     	background-color: white;
+	     	background-color: cornflowerblue;
 	}
 	p {
 		font-size: 16px;
 		font-family: monospace;
 	}
-	.larger-image {
-		width: 400px;
-		border-color: orange;
-		border-width: 5px;
-		border-style: solid;
-		border-radius: 50%;
-	}
-	.smaller-image {
-		width: 300px;
-	}
-	.thick-purple-border {
-		border-color: purple;
-		border-width: 5px;
-		border-style: solid;
-		border-radius: 10px;
-	}
+	<!--insert large image selector-->
+	<!insert small image selector-->
 	.yellow-background {
 		background-color: yellow;
 	}
@@ -52,7 +40,7 @@
 </header>
 </div>
 <div>
-<h1 style="color:blue;">Hello! I am Einstein!</h1>
+<h1>Hello! I am Einstein!</h1>
 </div>
 <div>
 
