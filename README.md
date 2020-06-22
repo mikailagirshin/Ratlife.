@@ -64,7 +64,7 @@
 <div>
 <nav>
 	<ul>
-		<li>My Life</li>li>
+		<li>My Life</li>
 		<li>Eat like me</li>
 		<li>Decorating Tips</li>
 		<li>Rated R for Rat</li>
