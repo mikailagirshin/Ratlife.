@@ -1,5 +1,8 @@
+<DOCTYPE!html>
 <html>
 	<head>
+		<title>BeingEinstein</title>
+	</head>
 	<style>
 		body {
 			background-color: gold;
@@ -7,7 +10,10 @@
 
 		}
 		h1 {
-			text-align: center;
+			text-align: left;
+			border-style: solid;
+			border-color: crimson;
+			border-size: 10px;
 
 
 		}
@@ -31,12 +37,17 @@
 
 		}
 		p {
+			text-align: center;
 
 		}
 		#footer {
+			background-color: crimson;
 			text-align: right:
 
 
+		}
+		.white-text {
+			font-color: white;
 		}
 
 
@@ -45,7 +56,7 @@
 	</style>
 	</head>
 	<body>
-		<h1>Rat Life</h1>
+		<h1>Rat Life.</h1>
 	<div>
 		<h2>Hello! I am Einstein!</h2>
 		<p>I made this site because the world deserves to know who I am.</p>
@@ -65,7 +76,7 @@
 		<h5>These are some of my favorite foods</h5>
 			<ul>
 				<li>Carrot Tops</li>
-				<li style="text-align:center;">Your so called "Garbage"</li>
+				<li style>Your so called "Garbage"</li>
 				<li>Sweet Potatoes</li>
 				<li>Floor Crumbs</li>
 				<li>Peanuts</li>
