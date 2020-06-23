@@ -38,8 +38,9 @@
 
 		}
 		#footer {
-			background-color: crimson;
+			color: crimson;
 			text-align: right:
+			
 
 
 		}
@@ -53,7 +54,7 @@
 	</style>
 	
 	<body>
-		<h1>Rat Life.</h1>
+		<h1>My Ratastic Life</h1>
 	<div>
 		<h2>Hello! I am Einstein!</h2>
 		<p>I made this site because the world deserves to know who I am.</p>
@@ -90,7 +91,7 @@
 			</ol>
 	</div>
 	<div>
-		<footer>
+		<footer class="white-text">
 			<p>Contact Information</p>
 			<ul>
 				<li>Email: pussyruler2019@ratmail.com</li>
