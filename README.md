@@ -1,7 +1,5 @@
 <html>
 	<head>
-		<title>BeingEinstein</title>
-	</head>
 	<style>
 		body {
 			background-color: gold;
