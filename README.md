@@ -1,8 +1,5 @@
-<DOCTYPE!html>
 <html>
-	<head>
-		<title>BeingEinstein</title>
-	</head>
+
 	<style>
 		body {
 			background-color: gold;
@@ -54,7 +51,7 @@
 
 
 	</style>
-	</head>
+	
 	<body>
 		<h1>Rat Life.</h1>
 	<div>
