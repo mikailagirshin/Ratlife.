@@ -61,14 +61,14 @@
 	</div>
 	<div>
 		<h3>This is Me.</h3>
-		![Snapchat-987009328](https://user-images.githubusercontent.com/66884842/85505145-aa5db080-b5bb-11ea-97e2-4db10fecc12a.jpg)
+		<img src="https://user-images.githubusercontent.com/66884842/85507747-d9c2ec00-b5c0-11ea-9a19-02cd27ebd129.jpg” alt=“Einstein in Sweater”>
 		<p>As you can see, I am quite handsome.<br>
 			My mom said that I am the cutest guy<br>
 			In the <bold>WHOLE WORLD</bold></p>
 	</div>
 	<div>
 		<h4>These are my parents. They feed me. I love them.</h4>
-		![IMG_0545](https://user-images.githubusercontent.com/66884842/85505484-6d45ee00-b5bc-11ea-83d6-3bf85918b3fb.jpg)
+		
 	</div>
 	<div>
 		<h5>These are some of my favorite foods</h5>
