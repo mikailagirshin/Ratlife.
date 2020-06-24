@@ -61,7 +61,7 @@
 	</div>
 	<div>
 		<h3>This is Me.</h3>
-		<img src="https://user-images.githubusercontent.com/66884842/85507747-d9c2ec00-b5c0-11ea-9a19-02cd27ebd129.jpg” alt=“Einstein in Sweater”>
+		
 		<p>As you can see, I am quite handsome.<br>
 			My mom said that I am the cutest guy<br>
 			In the <bold>WHOLE WORLD</bold></p>
