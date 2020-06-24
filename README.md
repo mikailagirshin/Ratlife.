@@ -1,16 +1,18 @@
 <html>
+	<link href='https://fonts.googleapis.com/css?family=Short Stack' rel='stylesheet'>
 
 	<style>
 		body {
 			background-color: gold;
-			font-family: monospace;
+			font-family: 'Short Stack';
 
 		}
 		h1 {
-			text-align: left;
+			background-color: turquoise;
+			text-align: center;
 			border-style: solid;
-			border-color: crimson;
-			border-size: 10px;
+			border-color: dodgerblue;
+			border-size: 0px;
 
 
 		}
@@ -37,6 +39,7 @@
 			text-align: center;
 
 		}
+
 		#footer {
 			color: crimson;
 			text-align: right:
@@ -54,27 +57,28 @@
 	</style>
 	
 	<body>
-		<h1>My Ratastic Life</h1>
+		<h1>Rat Life.</h1>
 	<div>
 		<h2>Hello! I am Einstein!</h2>
 		<p>I made this site because the world deserves to know who I am.</p>
 	</div>
 	<div>
+		<!--insert image-->
 		<h3>This is Me.</h3>
-		
+		![Snapchat-987009328](https://user-images.githubusercontent.com/66884842/85505145-aa5db080-b5bb-11ea-97e2-4db10fecc12a.jpg)
 		<p>As you can see, I am quite handsome.<br>
 			My mom said that I am the cutest guy<br>
 			In the <bold>WHOLE WORLD</bold></p>
 	</div>
 	<div>
-		<h4>These are my parents. They feed me. I love them.</h4>
-		
+		<h4>These are my parents. They feed me. I like them.</h4>
+		![IMG_0545](https://user-images.githubusercontent.com/66884842/85505484-6d45ee00-b5bc-11ea-83d6-3bf85918b3fb.jpg)
 	</div>
 	<div>
 		<h5>These are some of my favorite foods</h5>
 			<ul>
 				<li>Carrot Tops</li>
-				<li style>Your so called "Garbage"</li>
+				<li>Garbage</li>
 				<li>Sweet Potatoes</li>
 				<li>Floor Crumbs</li>
 				<li>Peanuts</li>
