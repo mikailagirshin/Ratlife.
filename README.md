@@ -4,7 +4,7 @@
 	<style>
 		body {
 			background-color: gold;
-			font-family: 'Short Stack';
+			font-family: monospace;
 
 		}
 
