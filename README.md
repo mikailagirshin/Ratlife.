@@ -64,7 +64,7 @@
 		<p>I made this site because the world deserves to know who I am.</p>
 	</div>
 	<div>
-		<img src="https://github.com/mikailagirshin/Ratlife./issues/2#issue-644334575" alt="Einstein in Sweater"/>
+		<img src="https://github.com/mikailagirshin/Ratlife./issues/2#issue-644334575">
 		<h3>This is Me.</h3>
 		
 		<p>As you can see, I am quite handsome.<br>
@@ -73,7 +73,7 @@
 	</div>
 	<div>
 		<h4>These are my parents. They feed me. I like them.</h4>
-		![IMG_0545](https://user-images.githubusercontent.com/66884842/85505484-6d45ee00-b5bc-11ea-83d6-3bf85918b3fb.jpg)
+		
 	</div>
 	<div>
 		<h5>These are some of my favorite foods</h5>
