@@ -63,7 +63,7 @@
 		<p>I made this site because the world deserves to know who I am.</p>
 	</div>
 	<div>
-		<!--insert image-->
+		<img src=“https://github.com/mikailagirshin/<ratlife.><IMG_0545.jpg>” alt=“Einstein in Sweater”>
 		<h3>This is Me.</h3>
 		![Snapchat-987009328](https://user-images.githubusercontent.com/66884842/85505145-aa5db080-b5bb-11ea-97e2-4db10fecc12a.jpg)
 		<p>As you can see, I am quite handsome.<br>
