@@ -3,7 +3,7 @@
 
 	<style>
 		body {
-			background-color: gold;
+			background-color: rgb(255, 255, 102);
 			font-family: monospace;
 
 		}
