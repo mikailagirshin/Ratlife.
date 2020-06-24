@@ -1,6 +1,6 @@
-
+<html>
 	<link href='https://fonts.googleapis.com/css?family=Short Stack' rel='stylesheet'>
-
+	<link rel="stylesheet" type="text/css"href="style.css"
 	<style>
 		body {
 			background-color: gold;
