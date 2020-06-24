@@ -1,7 +1,4 @@
 
-
-<html>
-
 	<link href='https://fonts.googleapis.com/css?family=Short Stack' rel='stylesheet'>
 
 	<style>
@@ -12,14 +9,13 @@
 		}
 
 
+
 		h2 {
-			
-			background-color: turquoise;
 			text-align: center;
+			background-color: turquoise;
 			border-style: solid;
 			border-color: dodgerblue;
 			border-size: 0px;
-
 
 		}
 		h3 {
@@ -37,13 +33,10 @@
 		h6 {
 
 		}
-		
 		p {
 			text-align: center;
 
 		}
-		
-		
 
 		#footer {
 			color: crimson;
@@ -55,8 +48,6 @@
 		.white-text {
 			font-color: white;
 		}
-		
-		
 
 
 
@@ -64,26 +55,26 @@
 	</style>
 	
 	<body>
-		
+		<h1>Hello! I am Einstein!</h1>
 	<div>
-		<h2>Hello! I am Einstein!</h2>
-		<p>I made this site because the world deserves to know who I am.</p>
+		<h2>As you can see, I am a rat!</h2>
+		<p>I made this site because the world deserves to know who I am. You see, I am no ordinary rat. I am like a cuddly dumpling full of love.</p>
 	</div>
 	<div>
-		
-<img align="center" src="https://user-images.githubusercontent.com/66884842/85630898-81ccc980-b642-11ea-91f7-feb1de9ce15b.png" alt="Einstein in a Sweater" width="250" height="400"/>
+	<img align="center" src="https://user-images.githubusercontent.com/66884842/85630898-81ccc980-b642-11ea-91f7-feb1de9ce15b.png" alt="Einstein in a Sweater" width="250" height="400"/>
+	
 		<h3>This is Me.</h3>
 		
 		<p>As you can see, I am quite handsome.<br>
 			My mom said that I am the cutest guy<br>
-			In the <bold>WHOLE WORLD</bold></p>
+			In the <strong>WHOLE WORLD!</strong></p>
 	</div>
 	<div>
-		<h4>These are my parents. They feed me. I like them.</h4>
+		<h4>These are my parents. I told you that I am no ordinary rat. I am part human.</h4>
 		
 	</div>
 	<div>
-		<h5>These are some of my favorite foods</h5>
+		<h5>My Favorite Foods</h5>
 			<ul>
 				<li>Carrot Tops</li>
 				<li>Garbage</li>
@@ -93,13 +84,13 @@
 			</ul>
 	</div>
 	<div>
-		<h6>Here are some reasons why I am special</h6>
+		<h6>Things That Make Me Special</h6>
 			<ol>
 				<li>I pee on my dad. He still loves me afterwards.</li>
-				<li>I love to cuddle</li>
-				<li>I am going to live forever, suckers.</li>
-				<li>The smell of rain makes me happy</li>
-				<li>I just am. Look at me.</li>
+				<li>I love to cuddle.</li>
+				<li>I am going to live forever.</li>
+				<li>The smell of rain makes me happy.</li>
+				<li>I have little hands that I can pick stuff up with.</li>
 			</ol>
 	</div>
 	<div>
