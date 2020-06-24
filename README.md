@@ -3,7 +3,7 @@
 
 	<style>
 		body {
-			background-color: rgb(255, 255, 102);
+			background-color: rgb(255, 255, 255);
 			font-family: monospace;
 
 		}
@@ -12,7 +12,7 @@
 
 		h2 {
 			text-align: center;
-			background-color: yellow;
+			background-color: ;
 			border-style: solid;
 			border-color: dodgerblue;
 			border-size: 10px;
@@ -58,25 +58,25 @@
 	<body>
 		<h2>Einstein the Rat Bastard</h2>
 	<div>
-		<h3 style=color:"white";><u>All About Me</u></h3>
-<img src="https://user-images.githubusercontent.com/66884842/85630898-81ccc980-b642-11ea-91f7-feb1de9ce15b.png" alt="Einstein in a Sweater" width="250" height="400" align="center"/>
+		<h3><u>All About Me</u></h3>
+<img src="https://user-images.githubusercontent.com/66884842/85630898-81ccc980-b642-11ea-91f7-feb1de9ce15b.png" alt="Einstein in a Sweater" width="250" height="400" align="center" border-radius="50%"/>
 		<p>I made this site to tell the whole world about me! You see, I am no ordinary rat. I am like a cuddly dumpling full of love.</p>
 	</div>
 	<div>
 
 	
-		<h3>This is Me.</h3>
+		<h4>This is Me.</h4>
 		
 		<p>As you can see, I am quite handsome.<br>
 			My mom said that I am the cutest guy<br>
 			In the <strong>WHOLE WORLD!</strong></p>
 	</div>
 	<div>
-		<h4>These are my parents. I told you that I am no ordinary rat. I am part human.</h4>
+		<h5>These are my parents. I told you that I am no ordinary rat. I am part human.</h5>
 		
 	</div>
 	<div>
-		<h5>My Favorite Foods</h5>
+		<p>My Favorite Foods</p>
 			<ul>
 				<li>Carrot Tops</li>
 				<li>Garbage</li>
@@ -86,7 +86,7 @@
 			</ul>
 	</div>
 	<div>
-		<h6>Things That Make Me Special</h6>
+		<p>Things That Make Me Special</p>
 			<ol>
 				<li>I pee on my dad. He still loves me afterwards.</li>
 				<li>I love to cuddle.</li>
