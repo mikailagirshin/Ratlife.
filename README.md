@@ -3,7 +3,7 @@
 
 	<style>
 		body {
-			background-color: rgb(255, 255, 255);
+			background-color: rgb(255, 255, 128);
 			font-family: monospace;
 
 		}
@@ -12,7 +12,7 @@
 
 		h2 {
 			text-align: center;
-			background-color: ;
+			background-color: rgb(204, 255, 204);
 			border-style: solid;
 			border-color: dodgerblue;
 			border-size: 10px;
@@ -49,6 +49,8 @@
 		.white-text {
 			font-color: white;
 		}
+		.
+		
 
 
 
