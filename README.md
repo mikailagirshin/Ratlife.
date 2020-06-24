@@ -12,10 +12,10 @@
 
 		h2 {
 			text-align: center;
-			background-color: turquoise;
+			background-color: yellow;
 			border-style: solid;
 			border-color: dodgerblue;
-			border-size: 0px;
+			border-size: 10px;
 
 		}
 		h3 {
@@ -55,9 +55,9 @@
 	</style>
 	
 	<body>
-		<h1>Hello! I am Einstein!</h1>
+		<h2>Hello! I am Einstein!</h2>
 	<div>
-		<h2>As you can see, I am a rat!</h2>
+		<h3>As you can see, I am a rat!</h3>
 		<p>I made this site because the world deserves to know who I am. You see, I am no ordinary rat. I am like a cuddly dumpling full of love.</p>
 	</div>
 	<div>
