@@ -10,17 +10,16 @@
 			font-family: 'Short Stack';
 
 		}
-		h1 {
+
+
+		h2 {
+			
 			background-color: turquoise;
 			text-align: center;
 			border-style: solid;
 			border-color: dodgerblue;
 			border-size: 0px;
 
-
-		}
-		h2 {
-			text-align: center;
 
 		}
 		h3 {
@@ -38,6 +37,7 @@
 		h6 {
 
 		}
+		
 		p {
 			text-align: center;
 
@@ -56,6 +56,7 @@
 			font-color: white;
 		}
 		
+		
 
 
 
@@ -63,14 +64,14 @@
 	</style>
 	
 	<body>
-		<h1>Rat Life.</h1>
+		
 	<div>
 		<h2>Hello! I am Einstein!</h2>
 		<p>I made this site because the world deserves to know who I am.</p>
 	</div>
 	<div>
 		
-<img src="https://user-images.githubusercontent.com/66884842/85630898-81ccc980-b642-11ea-91f7-feb1de9ce15b.png" alt="Einstein in a Sweater" width="250" height="400"/>
+<img align="center" src="https://user-images.githubusercontent.com/66884842/85630898-81ccc980-b642-11ea-91f7-feb1de9ce15b.png" alt="Einstein in a Sweater" width="250" height="400"/>
 		<h3>This is Me.</h3>
 		
 		<p>As you can see, I am quite handsome.<br>
