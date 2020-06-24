@@ -61,7 +61,7 @@
 		<p>I made this site because the world deserves to know who I am. You see, I am no ordinary rat. I am like a cuddly dumpling full of love.</p>
 	</div>
 	<div>
-	<img align="center" src="https://user-images.githubusercontent.com/66884842/85630898-81ccc980-b642-11ea-91f7-feb1de9ce15b.png" alt="Einstein in a Sweater" width="250" height="400"/>
+<img align="center" src="https://user-images.githubusercontent.com/66884842/85630898-81ccc980-b642-11ea-91f7-feb1de9ce15b.png" alt="Einstein in a Sweater" width="250" height="400"/>
 	
 		<h3>This is Me.</h3>
 		
