@@ -60,7 +60,7 @@
 		<p>I made this site because the world deserves to know who I am.</p>
 	</div>
 	<div>
-		<!--insert image-->
+		![Snapchat-987009328](https://user-images.githubusercontent.com/66884842/85505145-aa5db080-b5bb-11ea-97e2-4db10fecc12a.jpg)
 		<h3>This is Me.</h3>
 		<p>As you can see, I am quite handsome.<br>
 			My mom said that I am the cutest guy<br>
