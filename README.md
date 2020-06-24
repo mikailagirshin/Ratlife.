@@ -1,3 +1,5 @@
+
+
 <html>
 
 	<link href='https://fonts.googleapis.com/css?family=Short Stack' rel='stylesheet'>
@@ -64,7 +66,8 @@
 		<p>I made this site because the world deserves to know who I am.</p>
 	</div>
 	<div>
-		<img src="https://github.com/mikailagirshin/Ratlife./issues/2#issue-644334575">
+		
+<img src="https://user-images.githubusercontent.com/66884842/85630898-81ccc980-b642-11ea-91f7-feb1de9ce15b.png" alt="Einstein in a Sweater"/>
 		<h3>This is Me.</h3>
 		
 		<p>As you can see, I am quite handsome.<br>
