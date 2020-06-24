@@ -53,6 +53,10 @@
 		.white-text {
 			font-color: white;
 		}
+		.first-image {
+			width: 200px;
+			height: 400px;
+		}
 
 
 
@@ -67,7 +71,7 @@
 	</div>
 	<div>
 		
-<img src="https://user-images.githubusercontent.com/66884842/85630898-81ccc980-b642-11ea-91f7-feb1de9ce15b.png" alt="Einstein in a Sweater"/>
+<img class="first-image" src="https://user-images.githubusercontent.com/66884842/85630898-81ccc980-b642-11ea-91f7-feb1de9ce15b.png" alt="Einstein in a Sweater"/>
 		<h3>This is Me.</h3>
 		
 		<p>As you can see, I am quite handsome.<br>
