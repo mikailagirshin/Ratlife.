@@ -42,10 +42,8 @@
 			text-align: center;
 
 		}
-		img {
-			width: 100px
-			height: 300px;
-		}
+		
+		
 
 		#footer {
 			color: crimson;
@@ -72,7 +70,7 @@
 	</div>
 	<div>
 		
-<img src="https://user-images.githubusercontent.com/66884842/85630898-81ccc980-b642-11ea-91f7-feb1de9ce15b.png" alt="Einstein in a Sweater"/>
+<img src="https://user-images.githubusercontent.com/66884842/85630898-81ccc980-b642-11ea-91f7-feb1de9ce15b.png" alt="Einstein in a Sweater" width="250" height="400"/>
 		<h3>This is Me.</h3>
 		
 		<p>As you can see, I am quite handsome.<br>
