@@ -3,7 +3,7 @@
 
 	<style>
 		body {
-			background-color: skyblue;
+			background-color: gold;
 			font-family: monospace;
 
 		}
@@ -13,14 +13,15 @@
 		h2 {
 			text-align: center;
 			background-color: gold;
-			border-style: solid;
-			border-color: rgb(102, 255, 194);
-			border-size: 20px;
+			border-style: dotted;
+			border-color: rgb(204, 0, 68);
+			border-size: 30px;
 			color: white;
 
 		}
 		h3 {
 			text-align: center;
+			color: rgb(0, 128, 128)
 
 
 		}
@@ -53,8 +54,8 @@
 		}
 		.smaller-image {
 			
-			border-color: (rgb)255, 102, 102);
-			border-width: 20px;
+			border-color: rgb(0, 230, 184);
+			border-width: 40px;
 			border-style: solid;
 			border-radius: 50%;
 		}
@@ -69,8 +70,8 @@
 		<h2>Einstein the Rat Bastard</h2>
 	<div>
 		<h3><u>All About Me</u></h3>
-<img src="https://user-images.githubusercontent.com/66884842/85630898-81ccc980-b642-11ea-91f7-feb1de9ce15b.png" alt="Einstein in a Sweater" width="250" height="400" align="justify" class="/>
-		<p>I made this site to tell the whole world about me!<br I am no ordinary rat.<br I am like a cuddly dumpling full of love.</p>
+<img class="smaller-image" src="https://user-images.githubusercontent.com/66884842/85630898-81ccc980-b642-11ea-91f7-feb1de9ce15b.png" alt="Einstein in a Sweater" width="250" height="400" align="center"/>
+		<p>I made this site to tell the whole world about me!<br> I am no ordinary rat.<br> I am like a cuddly dumpling full of love.</p>
 	</div>
 	<div>
 
