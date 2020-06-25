@@ -3,7 +3,7 @@
 
 	<style>
 		body {
-			background-color: rgb(255, 255, 128);
+			background-color: rgb(255, 102, 102);
 			font-family: monospace;
 
 		}
