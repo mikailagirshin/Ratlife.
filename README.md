@@ -14,8 +14,8 @@
 			text-align: center;
 			background-color: rgb(204, 255, 204);
 			border-style: solid;
-			border-color: dodgerblue;
-			border-size: 10px;
+			border-color: rgb(128, 128, 255);
+			border-size: 20px;
 
 		}
 		h3 {
