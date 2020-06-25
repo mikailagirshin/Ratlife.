@@ -51,7 +51,7 @@
 		}
 		.smaller-image {
 			
-			border-color: blue;
+			border-color: rgb(191, 128, 255);
 			border-width: 10px;
 			border-style: dotted;
 			border-radius: 50%;
