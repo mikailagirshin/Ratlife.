@@ -3,7 +3,7 @@
 
 	<style>
 		body {
-			background-color: gold;
+			background-color: rgb(255, 255, 128);
 			font-family: monospace;
 
 		}
@@ -12,7 +12,7 @@
 
 		h2 {
 			text-align: center;
-			background-color: rgb(255, 102, 0);
+			background-color: rgb(255, 128, 128);
 			border-style: solid;
 			border-color: rgb(128, 128, 255);
 			border-size: 20px;
@@ -51,7 +51,7 @@
 		}
 		.smaller-image {
 			
-			border-color: rgb(26, 83, 255);
+			border-color: ;
 			border-width: 20px;
 			border-style: solid;
 			border-radius: 50%;
