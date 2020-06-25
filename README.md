@@ -12,9 +12,9 @@
 
 		h2 {
 			text-align: center;
-			background-color: rgb(255, 128, 128);
+			background-color: rgb(153, 255, 214);
 			border-style: solid;
-			border-color: rgb(128, 128, 255);
+			border-color: rgb(102, 255, 194);
 			border-size: 20px;
 
 		}
@@ -51,7 +51,7 @@
 		}
 		.smaller-image {
 			
-			border-color: ;
+			border-color: (rgb)255, 102, 102);
 			border-width: 20px;
 			border-style: solid;
 			border-radius: 50%;
