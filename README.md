@@ -13,7 +13,7 @@
 		h2 {
 			text-align: center;
 			background-color: gold;
-			border-style: none none dotted;
+			border-style: dotted;
 			border-width: 80px;
 			border-color: rgb(204, 0, 68);
 			color: teal;
@@ -74,20 +74,20 @@
 	</style>
 	
 	<body>
-		<h2>Einstein the Rat Bastard</h2>
+		<h2>Einstein's Domestic Life</h2>
 	<div>
+	<h3 class="teal-text">As you can see, I am quite handsome.</h3>
+	<p class="white-text">My mom said that I am the cutest guy<br>
+			In the <strong>WHOLE WORLD!</strong></p>
 		
 <img class="smaller-image" src="https://user-images.githubusercontent.com/66884842/85630898-81ccc980-b642-11ea-91f7-feb1de9ce15b.png" alt="Einstein in a Sweater" width="250" height="400" align="center"/>
-<h3 class="teal-text"><u>This is Me.</u></h3>		
+<h3 class="teal-text">	
 		<p class="white-text">I made this site to tell the whole world about me!<br> I am no ordinary rat.<br> I am like a cuddly dumpling full of love.</p>
 	</div>
 	<div>
 
+
 	
-		<h4 class="teal-text">As you can see, I am quite handsome.</h4>
-		
-		<p class="white-text">My mom said that I am the cutest guy<br>
-			In the <strong>WHOLE WORLD!</strong></p>
 	</div>
 	<div>
 		<h5 class="teal-text">These are my parents.<br> I told you that I am no ordinary rat.<br> I am part human.</h5>
